@@ -4,7 +4,7 @@ INSERT INTO students (id, first_name, middle_name, last_name, age, location)
 VALUES(1, 'Juan', 'Blank', 'Cruz', 18, 'Manila');
 
 INSERT INTO students (id, first_name, middle_name, last_name, age, location)
-VALUES(2 'John', 'Blank', 'Young', 20, 'Manila');
+VALUES(2, 'John', 'Blank', 'Young', 20, 'Manila');
 
 INSERT INTO students (id, first_name, middle_name, last_name, age, location)
 VALUES(3, 'Victor', 'Blank', 'Rivera', 21, 'Manila');
